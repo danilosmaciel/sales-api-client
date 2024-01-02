@@ -1,0 +1,14 @@
+.banner{
+    padding: 1rem;
+    margin: 0;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    width: 100%;
+}
+
+.banner-title{
+    font-size: 2em;
+}

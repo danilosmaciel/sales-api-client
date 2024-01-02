@@ -1,0 +1,12 @@
+
+
+.customers-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.customers-list{
+    width: 90%;
+    margin: 0 auto;
+}
