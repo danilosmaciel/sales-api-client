@@ -1,30 +1,49 @@
-# React + TypeScript + Vite
+<div align="center">
+    <h1>
+      Sales Api Client
+    </h1>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+ Aplicação que funciona como um gerenciador de contas penduradas em um mini estabelecimentoç.
+</div>
 
-Currently, two official plugins are available:
+<div align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>
 
-## Expanding the ESLint configuration
+</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<div align="center">
 
-- Configure the top-level `parserOptions` property like this:
+[![Status](https://img.shields.io/badge/Status-Desenvolvimento-green)]()
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+</div>
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+</div>
+
+## Sobre
+
+ O projeto oferece funcionalidade para um gerenciar cliente que estão com contas "penduradas" em um mini estabelecimento, substituindo os papéis de anotações e ganhando rapidez.
+
+### Bibliotecas utilizadas
+
+- [Chakra-ui](https://github.com/AutoMapper/AutoMapper) - Biblioteca simples de componentes
+- [axios](https://axios-http.com/ptbr/) - Cliente para requisições Http
+- [MomentJs](https://momentjs.com/) - Biblioteca para manipulção de datas.
+- [React](https://react.dev/) - Biblioteca para a criação de interface do usuário
+
+## Abrir e rodar
+
+**Para executar este projeto você precisa:**
+
+1. Ter o [Nodejs](https://nodejs.org/en) a partir da versão v18.19.0 instalado em sua máquina<br/>
+2. Ter alguma IDE como o [vsCode](https://code.visualstudio.com/) instalada em sua máquina. <br/>
+3. Baixar e instalar o [Git](https://git-scm.com/downloads). <br/>
+4. Abrir o Git e clonar o projeto do [GitHub](https://github.com/danilosmaciel/sales-api-client/) usando o comando `git clone `. <br/>
+5. Ao abrir o projeto, execute o comando `npm install` através do terminal na raiz do projeto. As dependências serão baixadas. <br/>
+6. Depois de terminado de baixar as denpendências execute o comando `npm run dev` no diretório raiz da aplicação.
+7. Para logar na aplicação, utilize o usuário e senha criados através do endpoint /api/user/create da api sales-api-server(https://github.com/danilosmaciel/sales-api-server)
+
+
+[Voltar ao topo](#physical-solutions)<br>
