@@ -37,13 +37,14 @@
 
 **Para executar este projeto você precisa:**
 
-1. Ter o [Nodejs](https://nodejs.org/en) a partir da versão v18.19.0 instalado em sua máquina<br/>
-2. Ter alguma IDE como o [vsCode](https://code.visualstudio.com/) instalada em sua máquina. <br/>
-3. Baixar e instalar o [Git](https://git-scm.com/downloads). <br/>
-4. Abrir o Git e clonar o projeto do [GitHub](https://github.com/danilosmaciel/sales-api-client/) usando o comando `git clone `. <br/>
-5. Ao abrir o projeto, execute o comando `npm install` através do terminal na raiz do projeto. As dependências serão baixadas. <br/>
-6. Depois de terminado de baixar as denpendências execute o comando `npm run dev` no diretório raiz da aplicação.
-7. Para logar na aplicação, utilize o usuário e senha criados através do endpoint /api/user/create da api sales-api-server(https://github.com/danilosmaciel/sales-api-server)
+1. Antes de utilizar esse projeto, será necessário criar um usuário no endpoint /api/user/create da api(https://github.com/danilosmaciel/sales-api-server)
+2. Ter o [Nodejs](https://nodejs.org/en) a partir da versão v18.19.0 instalado em sua máquina<br/>
+3. Ter alguma IDE como o [vsCode](https://code.visualstudio.com/) instalada em sua máquina. <br/>
+4. Baixar e instalar o [Git](https://git-scm.com/downloads). <br/>
+5. Abrir o Git e clonar o projeto do [GitHub](https://github.com/danilosmaciel/sales-api-client/) usando o comando `git clone `. <br/>
+6. Ao abrir o projeto, execute o comando `npm install` através do terminal na raiz do projeto. As dependências serão baixadas. <br/>
+7. Depois de terminado de baixar as denpendências execute o comando `npm run dev` no diretório raiz da aplicação.
+8. Para logar na aplicação, utilize o usuário e senha criados através do endpoint /api/user/create da api sales-api-server(https://github.com/danilosmaciel/sales-api-server)
 
 
 [Voltar ao topo](#physical-solutions)<br>
