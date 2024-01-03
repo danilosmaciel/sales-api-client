@@ -24,7 +24,7 @@
 
 ## Sobre
 
- O projeto oferece funcionalidade para um gerenciar cliente que estão com contas "penduradas" em um mini estabelecimento, substituindo os papéis de anotações e ganhando rapidez.
+ O projeto funciona como um gerenciador clientes e contas "penduradas" para um mini estabelecimento, substituindo os papéis de anotações e ganhando rapidez.
 
 ### Bibliotecas utilizadas
 
@@ -32,6 +32,7 @@
 - [axios](https://axios-http.com/ptbr/) - Cliente para requisições Http
 - [MomentJs](https://momentjs.com/) - Biblioteca para manipulção de datas.
 - [React](https://react.dev/) - Biblioteca para a criação de interface do usuário
+- [TypeScript](https://www.typescriptlang.org/) - Adiciona funcionalidades ao Javascript que tornam o desenvolvimento mais consistente.
 
 ## Abrir e rodar
 
