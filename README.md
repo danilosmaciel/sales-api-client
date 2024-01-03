@@ -28,7 +28,7 @@
 
 ### Bibliotecas utilizadas
 
-- [Chakra-ui](https://github.com/AutoMapper/AutoMapper) - Biblioteca simples de componentes
+- [Chakra-ui](https://github.com/AutoMapper/AutoMapper) - Biblioteca de componentes ui
 - [axios](https://axios-http.com/ptbr/) - Cliente para requisições Http
 - [MomentJs](https://momentjs.com/) - Biblioteca para manipulção de datas.
 - [React](https://react.dev/) - Biblioteca para a criação de interface do usuário
